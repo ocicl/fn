@@ -1,0 +1,10 @@
+* fn
+
+A couple of lambda shorthand macros
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/cbaggers/fn.git   |
+| commit  | 8d8587d  |
+| systems | fn |
+|---------+-------------------------------------------|
+
